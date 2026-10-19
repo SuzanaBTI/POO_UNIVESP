@@ -7,7 +7,7 @@ Repositório dedicado ao registro e implementação dos exercícios práticos e 
 
 ---
 
-## 📌 Semana 3: Sistema Bancário Modular
+## 📌 Sistema Bancário Modular
 
 Implementação prática modelando regras de negócios bancárias para fixação dos pilares fundamentais de POO, com ênfase em **Herança**, **Polimorfismo**, **Encapsulamento** e uso de modificadores de comportamento (`super` e `final`).
 
