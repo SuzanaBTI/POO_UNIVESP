@@ -16,10 +16,6 @@ Repositório dedicado ao registro e implementação dos exercícios práticos e 
 # POO_UNIVESP
 Exercícios e projetos práticos da disciplina de Programação Orientada a Objetos - UNIVESP
 
-# Programação Orientada a Objetos - UNIVESP (COM230)
-
-Repositório dedicado ao registro e implementação dos exercícios práticos e projetos desenvolvidos durante a disciplina de **Programação Orientada a Objetos (COM230)** do curso de Bacharelado em Tecnologia da Informação (BTI) da UNIVESP.
-
 ---
 
 ## 📌 Sistema Bancário Modular
