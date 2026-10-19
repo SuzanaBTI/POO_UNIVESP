@@ -39,3 +39,11 @@ Será cobrada uma taxa de depósito: 0.15
 Saldo após depósito: 1499.85
 Será cobrada uma taxa de saque: 0.15
 Saldo após saque: 1399.6999
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+* **Linguagem:** Java (JDK Eclipse Temurin)
+* **Ambiente de Desenvolvimento:** Visual Studio Code
+* **Versionamento:** Git & GitHub
