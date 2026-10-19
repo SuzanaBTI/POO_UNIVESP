@@ -1,3 +1,18 @@
+# Programação Orientada a Objetos - UNIVESP (COM230)
+
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Eclipse Adoptium](https://img.shields.io/badge/Eclipse_Adoptium-2C2255?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![UNIVESP](https://img.shields.io/badge/UNIVESP-C8102E?style=for-the-badge&logoColor=white)
+
+Repositório dedicado ao registro e implementação dos exercícios práticos e projetos desenvolvidos durante a disciplina de **Programação Orientada a Objetos (COM230)** do curso de Bacharelado em Tecnologia da Informação (BTI) da UNIVESP.
+
+---
+
 # POO_UNIVESP
 Exercícios e projetos práticos da disciplina de Programação Orientada a Objetos - UNIVESP
 
