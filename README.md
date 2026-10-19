@@ -2,8 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![UNIVESP](https://img.shields.io/badge/UNIVESP-COM230-b30000?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 Repositório estruturado para consolidar os fundamentos arquiteturais de **Programação Orientada a Objetos (POO)** em Java, desenvolvido no âmbito da disciplina **COM230** do Bacharelado em Tecnologia da Informação (BTI) da **UNIVESP**.
 
